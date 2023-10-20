@@ -2,4 +2,4 @@
 
 This program makes growth curves from multiple cell density measurements.
 
-graphGC.py data.csv
+Usage: python graphGC.py data.csv
