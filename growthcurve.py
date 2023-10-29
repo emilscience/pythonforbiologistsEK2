@@ -4,7 +4,7 @@
 Program: Plot growth curves.
 Author: Emil Karlsson
 Date: 2023-10-20
-Usage: graphGC.py data.csv
+Usage: growthcurve.py data.csv
 
 Expected raw data format is one
 row per time point and one column
